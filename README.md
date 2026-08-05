@@ -47,7 +47,7 @@ NAME       : "Rudra Srivastava"
 ROLE       : "Full-Stack Developer & AI/ML Enthusiast"
 DEGREE     : "B.Tech Computer Science & Engineering Student"
 LOCATION   : "India"
-FOCUS      : "Scalable Web Architectures, Intelligent ATS Algorithms & Applied Machine Learning"
+FOCUS      : "Scalable Web Architectures, API Integrations & Applied Machine Learning"
 MOTTO      : "Engineering intelligent, practical software at the intersection of AI & Web."
 ---------------------------------------------------------------------------------------------
 ```
@@ -74,8 +74,9 @@ Passionate **Computer Science student** specializing in **Full-Stack Web Develop
     <td><b>🎨 Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
   </tr>
   <tr>
@@ -90,12 +91,12 @@ Passionate **Computer Science student** specializing in **Full-Stack Web Develop
     </td>
   </tr>
   <tr>
-    <td><b>🧠 AI / ML Stack</b></td>
+    <td><b>🧠 AI / ML & APIs</b></td>
     <td>
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/ATS_Scoring_Algorithms-00D98B?style=flat-square&logo=openai&logoColor=black" />
+      <img src="https://img.shields.io/badge/API_Key_Integration-00D98B?style=flat-square&logo=fastapi&logoColor=black" />
     </td>
   </tr>
   <tr>
@@ -133,7 +134,7 @@ Passionate **Computer Science student** specializing in **Full-Stack Web Develop
 - 📄 **PDF Evaluation Export**: Downloadable formatted PDF reports detailing missing keywords & improvement suggestions.
 - 🔒 **Secure Auth & Profiles**: Powered by JWT authentication, secure user profiles, and account management.
 
-**Tech Stack**: `React.js` • `Tailwind CSS` • `Node.js` • `Express.js` • `PostgreSQL` • `JWT Auth`
+**Tech Stack**: `React.js` • `Node.js` • `Express.js` • `PostgreSQL` • `JWT Auth`
 
 🔗 **Repository**: [github.com/srivastavarudra22-prog/AI--Resume-Analyzer](https://github.com/srivastavarudra22-prog/AI--Resume-Analyzer)
 
@@ -143,10 +144,10 @@ Passionate **Computer Science student** specializing in **Full-Stack Web Develop
 > **Web-based financial engine built to compute, analyze, and predict Net Asset Value (NAV) using R² regression/analytical algorithms with interactive visual charts.**
 
 - 📊 **R² Analytical Modeling**: Performs mathematical evaluation to project future asset value trends.
-- 📉 **Chart.js Visual Analytics**: Interactive graphical visualizers for tracking NAV fluctuations.
+- 📉 **Visual Data Modeling**: Graphical visualizers for tracking NAV fluctuations.
 - ⚡ **Lightweight & Fast**: Pure client-side JS & Node.js backend logic designed for instant execution.
 
-**Tech Stack**: `JavaScript` • `HTML5` • `CSS3` • `Chart.js` • `Node.js`
+**Tech Stack**: `JavaScript` • `HTML5` • `CSS3` • `Node.js`
 
 🔗 **Repository**: [github.com/raidx545/navPredicitionR2](https://github.com/raidx545/navPredicitionR2)
 
