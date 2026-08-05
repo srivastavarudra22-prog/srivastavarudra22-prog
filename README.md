@@ -205,11 +205,13 @@ Passionate **Computer Science student** specializing in **Full-Stack Web Develop
 
 ---
 
-## 🐍 Training Matrix // Activity & Contribution Graph
+## 🐍 Training Matrix // Contribution Matrix
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavarudra22-prog&theme=react-dark&bg_color=050505&color=00D98B&line=00D98B&point=E8E8E8&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://ghchart.rshah.org/00D98B/srivastavarudra22-prog" width="100%" alt="Rudra Srivastava's GitHub Contribution Grid" />
 </div>
+
+<br/>
 
 ---
 
