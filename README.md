@@ -7,29 +7,29 @@
 
 <!-- SYSTEM STATUS & VISITOR COUNTER -->
 <a href="https://github.com/srivastavarudra22-prog">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE_%2F%2F_ACTIVE_RESEARCH-00D98B?style=for-the-badge&logo=prometheus&logoColor=050505&labelColor=050505" alt="System Status" />
+  <img src="https://img.shields.io/static/v1?label=SYSTEM+STATUS&message=ONLINE+%2F%2F+ACTIVE+RESEARCH&color=00D98B&style=for-the-badge&labelColor=050505&logo=prometheus&logoColor=00D98B" alt="System Status" />
 </a>
 <a href="https://github.com/srivastavarudra22-prog">
-  <img src="https://komarev.com/ghpvc/?username=srivastavarudra22-prog&color=00D98B&style=for-the-badge&label=LAB_VISITORS&base=100" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=srivastavarudra22-prog&color=00D98B&style=for-the-badge&label=LAB+VISITORS" alt="Visitor Counter" />
 </a>
 <a href="https://www.credly.com/go/LAso9X17">
-  <img src="https://img.shields.io/badge/AWS-CLOUD_FOUNDATIONS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=050505" alt="AWS Certified" />
+  <img src="https://img.shields.io/static/v1?label=AWS&message=CLOUD+FOUNDATIONS&color=FF9900&style=for-the-badge&labelColor=050505&logo=amazon-aws&logoColor=FF9900" alt="AWS Certified" />
 </a>
 
 <br/><br/>
 
 <!-- QUICK CONTACT BADGES -->
 <a href="https://www.linkedin.com/in/rudra-srivastava-35a902329">
-  <img src="https://img.shields.io/badge/LinkedIn-Rudra_Srivastava-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" alt="LinkedIn" />
+  <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Rudra+Srivastava&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" alt="LinkedIn" />
 </a>
 <a href="mailto:srivastavarudra22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-srivastavarudra22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505" alt="Email" />
+  <img src="https://img.shields.io/static/v1?label=Email&message=srivastavarudra22%40gmail.com&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505" alt="Email" />
 </a>
 <a href="https://leetcode.com/u/bixbyultra/">
-  <img src="https://img.shields.io/badge/LeetCode-bixbyultra-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=050505" alt="LeetCode" />
+  <img src="https://img.shields.io/static/v1?label=LeetCode&message=bixbyultra&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=white&labelColor=050505" alt="LeetCode" />
 </a>
 <a href="https://www.codechef.com/users/rudra_sri_34">
-  <img src="https://img.shields.io/badge/CodeChef-rudra__sri__34-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=050505" alt="CodeChef" />
+  <img src="https://img.shields.io/static/v1?label=CodeChef&message=rudra__sri__34&color=5B4638&style=for-the-badge&logo=codechef&logoColor=white&labelColor=050505" alt="CodeChef" />
 </a>
 
 </div>
@@ -60,7 +60,7 @@ Passionate **Computer Science student** specializing in **Full-Stack Web Develop
 
 <table>
   <tr>
-    <td width="20%" font-weight="bold"><b>💻 Languages</b></td>
+    <td width="20%"><b>💻 Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -156,14 +156,14 @@ Passionate **Computer Science student** specializing in **Full-Stack Web Develop
 
 <table>
   <tr>
-    <td width="50%" fill="#0b0e12">
+    <td width="50%">
       <h4 align="center">🛡️ Cloud & System Certification</h4>
       <p align="center">
         <b>AWS Academy Graduate – Cloud Foundations</b><br/>
         Issued by Amazon Web Services (AWS)<br/>
         <i>Issued: Feb 2026 (20 Hours Coursework)</i><br/><br/>
         <a href="https://www.credly.com/go/LAso9X17">
-          <img src="https://img.shields.io/badge/VERIFY_ON_CREDLY-00D98B?style=for-the-badge&logo=credly&logoColor=050505&labelColor=050505" alt="Credly Verification" />
+          <img src="https://img.shields.io/static/v1?label=CREDLY&message=VERIFY+BADGE&color=00D98B&style=for-the-badge&labelColor=050505&logo=credly&logoColor=00D98B" alt="Credly Verification" />
         </a>
       </p>
     </td>
@@ -171,11 +171,11 @@ Passionate **Computer Science student** specializing in **Full-Stack Web Develop
       <h4 align="center">🧩 Algorithmic & Problem Solving</h4>
       <p align="center">
         <a href="https://leetcode.com/u/bixbyultra/">
-          <img src="https://img.shields.io/badge/LeetCode-bixbyultra-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=050505" />
+          <img src="https://img.shields.io/static/v1?label=LeetCode&message=bixbyultra&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=white&labelColor=050505" />
         </a>
         <br/><br/>
         <a href="https://www.codechef.com/users/rudra_sri_34">
-          <img src="https://img.shields.io/badge/CodeChef-rudra__sri__34-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=050505" />
+          <img src="https://img.shields.io/static/v1?label=CodeChef&message=rudra__sri__34&color=5B4638&style=for-the-badge&logo=codechef&logoColor=white&labelColor=050505" />
         </a>
       </p>
     </td>
