@@ -120,7 +120,7 @@ Passionate **Computer Science student** specializing in **Full-Stack Web Develop
 
 <div align="center">
   <a href="https://github.com/srivastavarudra22-prog/AI--Resume-Analyzer">
-    <img src="https://raw.githubusercontent.com/srivastavarudra22-prog/AI--Resume-Analyzer/main/screenshots/dashboard.png" width="95%" alt="ResumeIQ PRO AI Screenshot" onError="this.onerror=null;this.src='https://github.com/user-attachments/assets/7592cf1a-4c28-4034-9226-c215e98544ab';" />
+    <img src="https://raw.githubusercontent.com/srivastavarudra22-prog/srivastavarudra22-prog/main/project-resume-analyzer.png" width="95%" alt="ResumeIQ PRO AI Screenshot" />
   </a>
 </div>
 
@@ -200,15 +200,15 @@ Passionate **Computer Science student** specializing in **Full-Stack Web Develop
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivastavarudra22-prog&theme=dark&background=050505&ring=00D98B&fire=00D98B&currStreakLabel=00D98B&stroke=111315" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=srivastavarudra22-prog&theme=dark&background=050505&ring=00D98B&fire=00D98B&currStreakLabel=00D98B&stroke=111315" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-## 🐍 Training Matrix // Contribution Activity
+## 🐍 Training Matrix // Activity & Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/srivastavarudra22-prog/srivastavarudra22-prog/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Snake Contribution Graph" onError="this.onerror=null;this.src='https://github-readme-activity-graph.vercel.app/graph?username=srivastavarudra22-prog&theme=react-dark&bg_color=050505&color=00D98B&line=00D98B&point=E8E8E8&area=true&hide_border=true';" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavarudra22-prog&theme=react-dark&bg_color=050505&color=00D98B&line=00D98B&point=E8E8E8&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ---
