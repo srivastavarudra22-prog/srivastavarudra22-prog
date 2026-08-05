@@ -1,0 +1,236 @@
+<div align="center">
+
+<!-- HEADER BANNER -->
+<img src="https://raw.githubusercontent.com/srivastavarudra22-prog/srivastavarudra22-prog/main/banner.svg" width="100%" alt="Rudra Srivastava - AI Research Lab OS Header" />
+
+<br/><br/>
+
+<!-- SYSTEM STATUS & VISITOR COUNTER -->
+<a href="https://github.com/srivastavarudra22-prog">
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE_%2F%2F_ACTIVE_RESEARCH-00D98B?style=for-the-badge&logo=prometheus&logoColor=050505&labelColor=050505" alt="System Status" />
+</a>
+<a href="https://github.com/srivastavarudra22-prog">
+  <img src="https://komarev.com/ghpvc/?username=srivastavarudra22-prog&color=00D98B&style=for-the-badge&label=LAB_VISITORS&base=100" alt="Visitor Counter" />
+</a>
+<a href="https://www.credly.com/go/LAso9X17">
+  <img src="https://img.shields.io/badge/AWS-CLOUD_FOUNDATIONS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=050505" alt="AWS Certified" />
+</a>
+
+<br/><br/>
+
+<!-- QUICK CONTACT BADGES -->
+<a href="https://www.linkedin.com/in/rudra-srivastava-35a902329">
+  <img src="https://img.shields.io/badge/LinkedIn-Rudra_Srivastava-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" alt="LinkedIn" />
+</a>
+<a href="mailto:srivastavarudra22@gmail.com">
+  <img src="https://img.shields.io/badge/Email-srivastavarudra22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505" alt="Email" />
+</a>
+<a href="https://leetcode.com/u/bixbyultra/">
+  <img src="https://img.shields.io/badge/LeetCode-bixbyultra-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=050505" alt="LeetCode" />
+</a>
+<a href="https://www.codechef.com/users/rudra_sri_34">
+  <img src="https://img.shields.io/badge/CodeChef-rudra__sri__34-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=050505" alt="CodeChef" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+## 🔬 System Architecture // About Me
+
+```sys-kernel
+[LAB_NODE_01]: ~/researcher/rudra_srivastava.sys
+---------------------------------------------------------------------------------------------
+NAME       : Rudra Srivastava
+ROLE       : Full-Stack Developer & AI/ML Enthusiast
+DEGREE     : B.Tech Computer Science & Engineering Student
+LOCATION   : India
+FOCUS      : Scalable Web Architectures, Intelligent ATS Algorithms & Applied Machine Learning
+MOTTO      : "Engineering intelligent, practical software at the intersection of AI & Web."
+---------------------------------------------------------------------------------------------
+```
+
+Passionate **Computer Science student** specializing in **Full-Stack Web Development** and **Artificial Intelligence**. I build practical, high-impact scalable applications, tackle complex algorithmic challenges, and continuously explore modern technologies to engineer state-of-the-art software systems.
+
+---
+
+## ⚡ Model Capabilities // Tech Stack & Tooling
+
+<table>
+  <tr>
+    <td width="20%" font-weight="bold"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🎨 Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend & DB</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black" />
+      <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧠 AI / ML Stack</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/ATS_Scoring_Algorithms-00D98B?style=flat-square&logo=openai&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Cloud & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS_Academy-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧪 Active Experiments // Featured Projects
+
+### 🌟 01. ResumeIQ PRO AI — Intelligent ATS Resume Evaluator & Optimizer
+> **Full-stack web application designed to help job seekers evaluate & optimize resumes for Applicant Tracking Systems (ATS) & target job descriptions.**
+
+<div align="center">
+  <a href="https://github.com/srivastavarudra22-prog/AI--Resume-Analyzer">
+    <img src="https://raw.githubusercontent.com/srivastavarudra22-prog/AI--Resume-Analyzer/main/screenshots/dashboard.png" width="95%" alt="ResumeIQ PRO AI Screenshot" onError="this.onerror=null;this.src='https://github.com/user-attachments/assets/7592cf1a-4c28-4034-9226-c215e98544ab';" />
+  </a>
+</div>
+
+<br/>
+
+- 🎯 **ATS Score Calculation**: Analyzes resume content and generates compatibility metrics against target job descriptions.
+- 🔍 **Skill Extraction & Keyword Analysis**: Automatically extracts technical & soft skills and highlights critical missing keywords.
+- 💼 **Career Role Recommendations**: Matches candidate profiles with top target job titles and industry verticals.
+- 📊 **Interactive Analytics Dashboard**: Visualizes score trends, candidate uploads, and performance history.
+- 📄 **PDF Evaluation Export**: Downloadable formatted PDF reports detailing missing keywords & improvement suggestions.
+- 🔒 **Secure Auth & Profiles**: Powered by JWT authentication, secure user profiles, and account management.
+
+**Tech Stack**: `React.js` • `Tailwind CSS` • `Node.js` • `Express.js` • `PostgreSQL` • `JWT Auth`
+
+🔗 **Repository**: [github.com/srivastavarudra22-prog/AI--Resume-Analyzer](https://github.com/srivastavarudra22-prog/AI--Resume-Analyzer)
+
+---
+
+### 📈 02. NAV Prediction Engine — Analytical R² Financial Model
+> **Web-based financial engine built to compute, analyze, and predict Net Asset Value (NAV) using R² regression/analytical algorithms with interactive visual charts.**
+
+- 📊 **R² Analytical Modeling**: Performs mathematical evaluation to project future asset value trends.
+- 📉 **Chart.js Visual Analytics**: Interactive graphical visualizers for tracking NAV fluctuations.
+- ⚡ **Lightweight & Fast**: Pure client-side JS & Node.js backend logic designed for instant execution.
+
+**Tech Stack**: `JavaScript` • `HTML5` • `CSS3` • `Chart.js` • `Node.js`
+
+🔗 **Repository**: [github.com/raidx545/navPredicitionR2](https://github.com/raidx545/navPredicitionR2)
+
+---
+
+## 🏆 Certifications & Competitive Coding Matrix
+
+<table>
+  <tr>
+    <td width="50%" fill="#0b0e12">
+      <h4 align="center">🛡️ Cloud & System Certification</h4>
+      <p align="center">
+        <b>AWS Academy Graduate – Cloud Foundations</b><br/>
+        Issued by Amazon Web Services (AWS)<br/>
+        <i>Issued: Feb 2026 (20 Hours Coursework)</i><br/><br/>
+        <a href="https://www.credly.com/go/LAso9X17">
+          <img src="https://img.shields.io/badge/VERIFY_ON_CREDLY-00D98B?style=for-the-badge&logo=credly&logoColor=050505&labelColor=050505" alt="Credly Verification" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h4 align="center">🧩 Algorithmic & Problem Solving</h4>
+      <p align="center">
+        <a href="https://leetcode.com/u/bixbyultra/">
+          <img src="https://img.shields.io/badge/LeetCode-bixbyultra-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=050505" />
+        </a>
+        <br/><br/>
+        <a href="https://www.codechef.com/users/rudra_sri_34">
+          <img src="https://img.shields.io/badge/CodeChef-rudra__sri__34-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=050505" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Performance Metrics // GitHub Statistics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=srivastavarudra22-prog&theme=dark&bg_color=050505&title_color=00D98B&text_color=E8E8E8&icon_color=00D98B&border_color=111315&show_icons=true" alt="Rudra's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavarudra22-prog&theme=dark&bg_color=050505&title_color=00D98B&text_color=E8E8E8&border_color=111315&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivastavarudra22-prog&theme=dark&background=050505&ring=00D98B&fire=00D98B&currStreakLabel=00D98B&stroke=111315" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+## 🐍 Training Matrix // Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/srivastavarudra22-prog/srivastavarudra22-prog/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Snake Contribution Graph" onError="this.onerror=null;this.src='https://github-readme-activity-graph.vercel.app/graph?username=srivastavarudra22-prog&theme=react-dark&bg_color=050505&color=00D98B&line=00D98B&point=E8E8E8&area=true&hide_border=true';" />
+</div>
+
+---
+
+## 📡 Research Activity & Contact Command Center
+
+Feel free to reach out for collaborations, full-stack software development projects, or AI/ML research discussions!
+
+<div align="center">
+
+| Platform | Link / Direct Handle |
+| :--- | :--- |
+| **📧 Direct Email** | [`srivastavarudra22@gmail.com`](mailto:srivastavarudra22@gmail.com) |
+| **💼 LinkedIn** | [linkedin.com/in/rudra-srivastava-35a902329](https://www.linkedin.com/in/rudra-srivastava-35a902329) |
+| **🐙 GitHub Profile** | [@srivastavarudra22-prog](https://github.com/srivastavarudra22-prog) |
+| **🧩 LeetCode** | [leetcode.com/u/bixbyultra](https://leetcode.com/u/bixbyultra/) |
+| **👨‍🍳 CodeChef** | [codechef.com/users/rudra_sri_34](https://www.codechef.com/users/rudra_sri_34) |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub><code>SYSTEM_ID: RUDRA_SRIVASTAVA_AI_OS // ALL SYSTEMS NOMINAL // 2026 EDITION</code></sub>
+</div>
