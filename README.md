@@ -40,80 +40,19 @@
 
 ## 🔬 System Architecture // About Me
 
-<div align="center">
+```yaml
+# [LAB_NODE_01]: ~/researcher/rudra_srivastava.sys
+---------------------------------------------------------------------------------------------
+NAME       : "Rudra Srivastava"
+ROLE       : "Full-Stack Developer & AI/ML Enthusiast"
+DEGREE     : "B.Tech Computer Science & Engineering Student"
+LOCATION   : "India"
+FOCUS      : "Scalable Web Architectures, Intelligent ATS Algorithms & Applied Machine Learning"
+MOTTO      : "Engineering intelligent, practical software at the intersection of AI & Web."
+---------------------------------------------------------------------------------------------
+```
 
-<table width="100%">
-  <tr>
-    <td bgcolor="#080A0D" style="border: 1px solid #00D98B; border-radius: 10px; padding: 20px;">
-      
-      <!-- Top HUD Header Bar -->
-      <table width="100%">
-        <tr>
-          <td align="left">
-            <span style="color:#00D98B; font-family:monospace; font-weight:bold; font-size:14px;">
-              🟢 LAB_NODE_01 // RESEARCHER_CORE_V2.6
-            </span>
-          </td>
-          <td align="right">
-            <span style="color:#8B949E; font-family:monospace; font-size:12px;">
-              LATENCY: 12ms | SYSTEM_LOAD: 99.8%
-            </span>
-          </td>
-        </tr>
-      </table>
-      
-      <hr fill="#1F242D" height="1"/>
-
-      <!-- Main Profile Grid -->
-      <table width="100%">
-        <tr>
-          <!-- Left Column: Core Identity Card -->
-          <td width="55%" valign="top">
-            <h3 align="left" style="color:#E8E8E8; margin-top:0;">
-              👨‍💻 <span style="color:#00D98B;">Rudra Srivastava</span>
-            </h3>
-            <p align="left" style="color:#C9D1D9; font-size:14px; line-height:1.6;">
-              🚀 <b>Full-Stack Developer</b> & 🧠 <b>AI / ML Enthusiast</b> pursuing <b>B.Tech in Computer Science & Engineering</b>.
-            </p>
-            <p align="left" style="color:#8B949E; font-size:13px; line-height:1.6;">
-              Passionate about building scalable web applications, designing intelligent ATS scoring algorithms, and engineering real-time data visualizers. Dedicated to solving complex coding challenges and mastering modern software architecture.
-            </p>
-            <br/>
-            <div align="left">
-              <img src="https://img.shields.io/badge/FOCUS-FULL__STACK_%26_AI-00D98B?style=flat-square&labelColor=050505" />
-              <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_ROLES-007ACC?style=flat-square&labelColor=050505" />
-              <img src="https://img.shields.io/badge/DEGREE-B.TECH_CSE-FF9900?style=flat-square&labelColor=050505" />
-            </div>
-          </td>
-          
-          <!-- Right Column: Live Terminal Output -->
-          <td width="45%" valign="top" bgcolor="#050505" style="border: 1px solid #1F242D; border-radius: 8px; padding: 14px;">
-            <pre align="left" style="color:#00D98B; font-family:monospace; font-size:11px; margin:0; line-height:1.5;">
-<span style="color:#8B949E;"># sys.query_specs()</span>
-{
-  <span style="color:#E8E8E8;">"researcher"</span>: <span style="color:#00D98B;">"Rudra Srivastava"</span>,
-  <span style="color:#E8E8E8;">"primary_stack"</span>: [<span style="color:#00D98B;">"React"</span>, <span style="color:#00D98B;">"Node"</span>, <span style="color:#00D98B;">"Python"</span>],
-  <span style="color:#E8E8E8;">"cloud_platform"</span>: <span style="color:#00D98B;">"AWS Academy Certified"</span>,
-  <span style="color:#E8E8E8;">"ai_specialty"</span>: <span style="color:#00D98B;">"ATS NLP &amp; R² Models"</span>,
-  <span style="color:#E8E8E8;">"leetcode_user"</span>: <span style="color:#00D98B;">"bixbyultra"</span>,
-  <span style="color:#E8E8E8;">"codechef_user"</span>: <span style="color:#00D98B;">"rudra_sri_34"</span>,
-  <span style="color:#E8E8E8;">"status"</span>: <span style="color:#00D98B;">"BUILDING_SCALABLE_APPS"</span>
-}
-            </pre>
-          </td>
-        </tr>
-      </table>
-
-      <!-- Bottom Terminal Quote -->
-      <blockquote align="left" style="border-left: 3px solid #00D98B; color: #E8E8E8; font-style: italic; margin-top: 15px; padding-left: 10px;">
-        💡 <i>"Engineering intelligent, practical software at the intersection of Artificial Intelligence and Web Architecture."</i>
-      </blockquote>
-
-    </td>
-  </tr>
-</table>
-
-</div>
+Passionate **Computer Science student** specializing in **Full-Stack Web Development** and **Artificial Intelligence**. I build practical, high-impact scalable applications, tackle complex algorithmic challenges, and continuously explore modern technologies to engineer state-of-the-art software systems.
 
 ---
 
