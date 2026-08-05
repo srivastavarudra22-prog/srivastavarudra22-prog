@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 270" width="900" height="270">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0e13"/>
+      <stop offset="50%" stop-color="#05070a"/>
+      <stop offset="100%" stop-color="#0e1218"/>
+    </linearGradient>
+
+    <!-- Animated Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D98B">
+        <animate attributeName="stop-color" values="#00D98B;#00E5FF;#00D98B" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#00E5FF">
+        <animate attributeName="stop-color" values="#00E5FF;#00D98B;#00E5FF" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00D98B">
+        <animate attributeName="stop-color" values="#00D98B;#00E5FF;#00D98B" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="emeraldGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <!-- Subtle Dot Grid Pattern -->
+    <pattern id="dotGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#00D98B" opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .key { fill: #00E5FF; font-family: 'Fira Code', 'Cascadia Code', monospace; font-size: 13px; font-weight: bold; }
+    .val { fill: #E8E8E8; font-family: 'Fira Code', 'Cascadia Code', monospace; font-size: 13px; }
+    .highlight { fill: #00D98B; font-family: 'Fira Code', 'Cascadia Code', monospace; font-size: 13px; font-weight: bold; }
+    .comment { fill: #6E7681; font-family: 'Fira Code', 'Cascadia Code', monospace; font-size: 12px; }
+    .header-text { fill: #00D98B; font-family: monospace; font-size: 11px; letter-spacing: 1.5px; font-weight: bold; }
+    .cursor { fill: #00D98B; animation: blink 1s infinite; }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+  </style>
+
+  <!-- Base Card Container -->
+  <rect width="900" height="270" rx="10" fill="url(#cardBg)" stroke="url(#borderGrad)" stroke-width="1.5"/>
+  <rect width="900" height="270" rx="10" fill="url(#dotGrid)"/>
+
+  <!-- Top Header Bar -->
+  <path d="M 0 38 L 900 38" stroke="#1F242D" stroke-width="1"/>
+  <circle cx="24" cy="19" r="4" fill="#FF5F56"/>
+  <circle cx="38" cy="19" r="4" fill="#FFBD2E"/>
+  <circle cx="52" cy="19" r="4" fill="#27C93F"/>
+  <text x="75" y="23" class="header-text">LAB_NODE_01 // RESEARCHER_IDENTITY.SYS</text>
+  
+  <!-- Live Pulse Badge -->
+  <circle cx="820" cy="19" r="4" fill="#00D98B" filter="url(#emeraldGlow)">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="832" y="23" font-family="monospace" font-size="10" fill="#00D98B" letter-spacing="1">ACTIVE</text>
+
+  <!-- YAML Code Block Content -->
+  <!-- Comment Header -->
+  <text x="30" y="65" class="comment"># [LAB_NODE_01]: ~/researcher/rudra_srivastava.sys</text>
+  <line x1="30" y1="72" x2="870" y2="72" stroke="#1F242D" stroke-width="1"/>
+
+  <!-- Row 1: NAME -->
+  <text x="30" y="98" class="key">NAME</text>
+  <text x="120" y="98" class="key">:</text>
+  <text x="145" y="98" class="highlight">"Rudra Srivastava"</text>
+
+  <!-- Row 2: ROLE -->
+  <text x="30" y="123" class="key">ROLE</text>
+  <text x="120" y="123" class="key">:</text>
+  <text x="145" y="123" class="val">"Full-Stack Developer &amp; AI/ML Enthusiast"</text>
+
+  <!-- Row 3: DEGREE -->
+  <text x="30" y="148" class="key">DEGREE</text>
+  <text x="120" y="148" class="key">:</text>
+  <text x="145" y="148" class="val">"B.Tech Computer Science &amp; Engineering Student"</text>
+
+  <!-- Row 4: LOCATION -->
+  <text x="30" y="173" class="key">LOCATION</text>
+  <text x="120" y="173" class="key">:</text>
+  <text x="145" y="173" class="val">"India"</text>
+
+  <!-- Row 5: FOCUS -->
+  <text x="30" y="198" class="key">FOCUS</text>
+  <text x="120" y="198" class="key">:</text>
+  <text x="145" y="198" class="val">"Scalable Web Architectures, API Integrations &amp; Applied Machine Learning"</text>
+
+  <!-- Row 6: MOTTO -->
+  <text x="30" y="223" class="key">MOTTO</text>
+  <text x="120" y="223" class="key">:</text>
+  <text x="145" y="223" class="val">"Engineering intelligent, practical software at the intersection of AI &amp; Web."</text>
+  
+  <line x1="30" y1="240" x2="870" y2="240" stroke="#1F242D" stroke-width="1"/>
+
+  <!-- Blinking Cursor -->
+  <rect x="765" y="213" width="8" height="13" class="cursor"/>
+</svg>

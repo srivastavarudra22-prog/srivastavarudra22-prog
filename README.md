@@ -40,17 +40,11 @@
 
 ## 🔬 System Architecture // About Me
 
-```yaml
-# [LAB_NODE_01]: ~/researcher/rudra_srivastava.sys
----------------------------------------------------------------------------------------------
-NAME       : "Rudra Srivastava"
-ROLE       : "Full-Stack Developer & AI/ML Enthusiast"
-DEGREE     : "B.Tech Computer Science & Engineering Student"
-LOCATION   : "India"
-FOCUS      : "Scalable Web Architectures, API Integrations & Applied Machine Learning"
-MOTTO      : "Engineering intelligent, practical software at the intersection of AI & Web."
----------------------------------------------------------------------------------------------
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/srivastavarudra22-prog/srivastavarudra22-prog/main/about-me.svg" width="100%" alt="Rudra Srivastava About Me Console" />
+</div>
+
+<br/>
 
 Passionate **Computer Science student** specializing in **Full-Stack Web Development** and **Artificial Intelligence**. I build practical, high-impact scalable applications, tackle complex algorithmic challenges, and continuously explore modern technologies to engineer state-of-the-art software systems.
 
