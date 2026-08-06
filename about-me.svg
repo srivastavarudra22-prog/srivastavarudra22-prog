@@ -72,17 +72,17 @@
   <!-- Row 2: ROLE -->
   <text x="30" y="123" class="key">ROLE</text>
   <text x="120" y="123" class="key">:</text>
-  <text x="145" y="123" class="val">"Full-Stack Developer &amp; AI/ML Enthusiast"</text>
+  <text x="145" y="123" class="val">"Full-Stack Developer &amp; Machine Learning Learner"</text>
 
-  <!-- Row 3: DEGREE -->
-  <text x="30" y="148" class="key">DEGREE</text>
+  <!-- Row 3: COLLEGE -->
+  <text x="30" y="148" class="key">COLLEGE</text>
   <text x="120" y="148" class="key">:</text>
-  <text x="145" y="148" class="val">"B.Tech Computer Science &amp; Engineering Student"</text>
+  <text x="145" y="148" class="val">"ABES Engineering College, Ghaziabad (B.Tech CS 3rd Year)"</text>
 
-  <!-- Row 4: LOCATION -->
-  <text x="30" y="173" class="key">LOCATION</text>
+  <!-- Row 4: PORTFOLIO -->
+  <text x="30" y="173" class="key">PORTFOLIO</text>
   <text x="120" y="173" class="key">:</text>
-  <text x="145" y="173" class="val">"India"</text>
+  <text x="145" y="173" class="highlight">"https://www.rudra-dev.tech/"</text>
 
   <!-- Row 5: FOCUS -->
   <text x="30" y="198" class="key">FOCUS</text>

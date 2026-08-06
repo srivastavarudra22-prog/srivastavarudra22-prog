@@ -6,8 +6,8 @@
 <br/><br/>
 
 <!-- SYSTEM STATUS & VISITOR COUNTER -->
-<a href="https://github.com/srivastavarudra22-prog">
-  <img src="https://img.shields.io/static/v1?label=SYSTEM+STATUS&message=ONLINE+%2F%2F+ACTIVE+RESEARCH&color=00D98B&style=for-the-badge&labelColor=050505&logo=prometheus&logoColor=00D98B" alt="System Status" />
+<a href="https://www.rudra-dev.tech/">
+  <img src="https://img.shields.io/static/v1?label=PORTFOLIO&message=rudra-dev.tech&color=00D98B&style=for-the-badge&labelColor=050505&logo=googlechrome&logoColor=00D98B" alt="Live Portfolio" />
 </a>
 <a href="https://github.com/srivastavarudra22-prog">
   <img src="https://komarev.com/ghpvc/?username=srivastavarudra22-prog&color=00D98B&style=for-the-badge&label=LAB+VISITORS" alt="Visitor Counter" />
@@ -19,6 +19,9 @@
 <br/><br/>
 
 <!-- QUICK CONTACT BADGES -->
+<a href="https://www.rudra-dev.tech/">
+  <img src="https://img.shields.io/static/v1?label=Website&message=www.rudra-dev.tech&color=00E5FF&style=for-the-badge&logo=vercel&logoColor=white&labelColor=050505" alt="Personal Website" />
+</a>
 <a href="https://www.linkedin.com/in/rudra-srivastava-35a902329">
   <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Rudra+Srivastava&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" alt="LinkedIn" />
 </a>
@@ -29,7 +32,7 @@
   <img src="https://img.shields.io/static/v1?label=LeetCode&message=bixbyultra&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=white&labelColor=050505" alt="LeetCode" />
 </a>
 <a href="https://www.codechef.com/users/rudra_sri_34">
-  <img src="https://img.shields.io/static/v1?label=CodeChef&message=rudra__sri__34&color=5B4638&style=for-the-badge&logo=codechef&logoColor=white&labelColor=050505" alt="CodeChef" />
+  <img src="https://img.shields.io/static/v1?label=CodeChef&message=1--Star+Coder&color=5B4638&style=for-the-badge&logo=codechef&logoColor=white&labelColor=050505" alt="CodeChef" />
 </a>
 
 </div>
@@ -46,7 +49,7 @@
 
 <br/>
 
-Passionate **Computer Science student** specializing in **Full-Stack Web Development** and **Artificial Intelligence**. I build practical, high-impact scalable applications, tackle complex algorithmic challenges, and continuously explore modern technologies to engineer state-of-the-art software systems.
+Passionate **Computer Science student at ABES Engineering College (Ghaziabad)** specializing in **Full-Stack Web Development** and **Artificial Intelligence**. I build practical, high-impact scalable applications, tackle complex algorithmic challenges, and continuously explore modern technologies to engineer state-of-the-art software systems.
 
 ---
 
@@ -110,7 +113,29 @@ Passionate **Computer Science student** specializing in **Full-Stack Web Develop
 
 ## 🧪 Active Experiments // Featured Projects
 
-### 🌟 01. ResumeIQ PRO AI — Intelligent ATS Resume Evaluator & Optimizer
+### 🌐 01. RUDRA.AI — Personal Developer Portfolio Website
+> **Futuristic, AI-themed developer workstation portfolio featuring interactive system telemetry, project showcases, real-time status badges, and resume downloads.**
+
+<div align="center">
+  <a href="https://www.rudra-dev.tech/">
+    <img src="https://raw.githubusercontent.com/srivastavarudra22-prog/srivastavarudra22-prog/main/portfolio-screenshot.png" width="95%" alt="Rudra AI Portfolio Screenshot" />
+  </a>
+</div>
+
+<br/>
+
+- ⚡ **Futuristic Workstation GUI**: Dark-mode glassmorphic interface inspired by advanced AI research laboratories.
+- 🎯 **Interactive Terminal Widgets**: Live status indicators, coding profiles matrix, and quantum core status badges.
+- 📱 **Fully Responsive Layout**: Built for seamless viewing across mobile, tablet, and desktop devices.
+- 📄 **Resume PDF Download**: Instant one-click access to verified candidate resume.
+
+**Tech Stack**: `React.js` • `JavaScript` • `HTML5/CSS3` • `Custom Domain (Vercel)`
+
+🔗 **Live Website**: [rudra-dev.tech](https://www.rudra-dev.tech/)
+
+---
+
+### 🌟 02. ResumeIQ PRO AI — Intelligent ATS Resume Evaluator & Optimizer
 > **Full-stack web application designed to help job seekers evaluate & optimize resumes for Applicant Tracking Systems (ATS) & target job descriptions.**
 
 <div align="center">
@@ -134,7 +159,7 @@ Passionate **Computer Science student** specializing in **Full-Stack Web Develop
 
 ---
 
-### 📈 02. NAV Prediction Engine — Analytical R² Financial Model
+### 📈 03. NAV Prediction Engine — Analytical R² Financial Model
 > **Web-based financial engine built to compute, analyze, and predict Net Asset Value (NAV) using R² regression/analytical algorithms with interactive visual charts.**
 
 - 📊 **R² Analytical Modeling**: Performs mathematical evaluation to project future asset value trends.
@@ -170,7 +195,7 @@ Passionate **Computer Science student** specializing in **Full-Stack Web Develop
         </a>
         <br/><br/>
         <a href="https://www.codechef.com/users/rudra_sri_34">
-          <img src="https://img.shields.io/static/v1?label=CodeChef&message=rudra__sri__34&color=5B4638&style=for-the-badge&logo=codechef&logoColor=white&labelColor=050505" />
+          <img src="https://img.shields.io/static/v1?label=CodeChef&message=1--Star+Coder&color=5B4638&style=for-the-badge&logo=codechef&logoColor=white&labelColor=050505" />
         </a>
       </p>
     </td>
@@ -218,11 +243,12 @@ Feel free to reach out for collaborations, full-stack software development proje
 
 | Platform | Link / Direct Handle |
 | :--- | :--- |
+| **🌐 Personal Website** | [rudra-dev.tech](https://www.rudra-dev.tech/) |
 | **📧 Direct Email** | [`srivastavarudra22@gmail.com`](mailto:srivastavarudra22@gmail.com) |
 | **💼 LinkedIn** | [linkedin.com/in/rudra-srivastava-35a902329](https://www.linkedin.com/in/rudra-srivastava-35a902329) |
 | **🐙 GitHub Profile** | [@srivastavarudra22-prog](https://github.com/srivastavarudra22-prog) |
 | **🧩 LeetCode** | [leetcode.com/u/bixbyultra](https://leetcode.com/u/bixbyultra/) |
-| **👨‍🍳 CodeChef** | [codechef.com/users/rudra_sri_34](https://www.codechef.com/users/rudra_sri_34) |
+| **👨‍🍳 CodeChef** | [codechef.com/users/rudra_sri_34](https://www.codechef.com/users/rudra_sri_34) (1-Star Coder) |
 
 </div>
 
