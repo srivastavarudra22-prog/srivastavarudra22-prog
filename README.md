@@ -53,6 +53,29 @@ Passionate **Computer Science student at ABES Engineering College (Ghaziabad)** 
 
 ---
 
+## 💼 Professional Experience // Internship
+
+### ⚡ Frontend Web Development Intern — Codtech IT Solutions Pvt. Ltd.
+> **Duration**: 8 Weeks (06 June 2026 – 01 August 2026) | **ID**: `CITS3205` | **Status**: Successfully Completed
+
+- 🚀 Built and optimized modern, responsive frontend web user interfaces using HTML5, CSS3, JavaScript, and React.js.
+- 🎨 Engineered clean component architectures, implemented interactive UI elements, and improved client-side application performance.
+- 📜 **Accreditations**: AICTE Recognized • ISO 9001 Certified • MSME • #startupindia
+
+<br/>
+
+<details>
+  <summary><b>📜 Click to View Official Internship Certificate</b></summary>
+  <br/>
+  <div align="center">
+    <a href="https://raw.githubusercontent.com/srivastavarudra22-prog/srivastavarudra22-prog/main/internship-certificate.jpg">
+      <img src="https://raw.githubusercontent.com/srivastavarudra22-prog/srivastavarudra22-prog/main/internship-certificate.jpg" width="85%" alt="Codtech IT Solutions Internship Certificate - Rudra Srivastava" />
+    </a>
+  </div>
+</details>
+
+---
+
 ## ⚡ Model Capabilities // Tech Stack & Tooling
 
 <table>

@@ -72,22 +72,22 @@
   <!-- Row 2: ROLE -->
   <text x="30" y="123" class="key">ROLE</text>
   <text x="120" y="123" class="key">:</text>
-  <text x="145" y="123" class="val">"Full-Stack Developer &amp; Machine Learning Learner"</text>
+  <text x="145" y="123" class="val">"Full-Stack Developer &amp; AI/ML Enthusiast"</text>
 
-  <!-- Row 3: COLLEGE -->
-  <text x="30" y="148" class="key">COLLEGE</text>
+  <!-- Row 3: EXPERIENCE -->
+  <text x="30" y="148" class="key">EXPERIENCE</text>
   <text x="120" y="148" class="key">:</text>
-  <text x="145" y="148" class="val">"ABES Engineering College, Ghaziabad (B.Tech CS 3rd Year)"</text>
+  <text x="145" y="148" class="highlight">"Frontend Web Dev Intern @ Codtech IT Solutions"</text>
 
-  <!-- Row 4: PORTFOLIO -->
-  <text x="30" y="173" class="key">PORTFOLIO</text>
+  <!-- Row 4: EDUCATION -->
+  <text x="30" y="173" class="key">EDUCATION</text>
   <text x="120" y="173" class="key">:</text>
-  <text x="145" y="173" class="highlight">"https://www.rudra-dev.tech/"</text>
+  <text x="145" y="173" class="val">"ABES Engineering College, Ghaziabad (B.Tech CS 3rd Year)"</text>
 
-  <!-- Row 5: FOCUS -->
-  <text x="30" y="198" class="key">FOCUS</text>
+  <!-- Row 5: PORTFOLIO -->
+  <text x="30" y="198" class="key">PORTFOLIO</text>
   <text x="120" y="198" class="key">:</text>
-  <text x="145" y="198" class="val">"Scalable Web Architectures, API Integrations &amp; Applied Machine Learning"</text>
+  <text x="145" y="198" class="val">"https://www.rudra-dev.tech/"</text>
 
   <!-- Row 6: MOTTO -->
   <text x="30" y="223" class="key">MOTTO</text>
