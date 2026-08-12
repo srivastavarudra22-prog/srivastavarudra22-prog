@@ -64,15 +64,11 @@ Passionate **Computer Science student at ABES Engineering College (Ghaziabad)** 
 
 <br/>
 
-<details>
-  <summary><b>📜 Click to View Official Internship Certificate</b></summary>
-  <br/>
-  <div align="center">
-    <a href="https://raw.githubusercontent.com/srivastavarudra22-prog/srivastavarudra22-prog/main/internship-certificate.jpg">
-      <img src="https://raw.githubusercontent.com/srivastavarudra22-prog/srivastavarudra22-prog/main/internship-certificate.jpg" width="85%" alt="Codtech IT Solutions Internship Certificate - Rudra Srivastava" />
-    </a>
-  </div>
-</details>
+<div align="center">
+  <a href="https://raw.githubusercontent.com/srivastavarudra22-prog/srivastavarudra22-prog/main/internship-certificate.jpg">
+    <img src="https://raw.githubusercontent.com/srivastavarudra22-prog/srivastavarudra22-prog/main/internship-certificate.jpg" width="85%" alt="Codtech IT Solutions Internship Certificate - Rudra Srivastava" />
+  </a>
+</div>
 
 ---
 
@@ -195,23 +191,34 @@ Passionate **Computer Science student at ABES Engineering College (Ghaziabad)** 
 
 ---
 
-## 🏆 Certifications & Competitive Coding Matrix
+## 🏆 Certifications, Experience & Coding Matrix
 
 <table>
   <tr>
-    <td width="50%">
-      <h4 align="center">🛡️ Cloud & System Certification</h4>
+    <td width="33%" valign="top">
+      <h4 align="center">🛡️ AWS Cloud Certification</h4>
       <p align="center">
-        <b>AWS Academy Graduate – Cloud Foundations</b><br/>
-        Issued by Amazon Web Services (AWS)<br/>
-        <i>Issued: Feb 2026 (20 Hours Coursework)</i><br/><br/>
+        <b>AWS Academy Graduate</b><br/>
+        <i>Cloud Foundations</i><br/>
+        <small>Issued: Feb 2026 (20 Hrs)</small><br/><br/>
         <a href="https://www.credly.com/go/LAso9X17">
-          <img src="https://img.shields.io/static/v1?label=CREDLY&message=VERIFY+BADGE&color=00D98B&style=for-the-badge&labelColor=050505&logo=credly&logoColor=00D98B" alt="Credly Verification" />
+          <img src="https://img.shields.io/static/v1?label=CREDLY&message=VERIFY&color=00D98B&style=for-the-badge&labelColor=050505&logo=credly&logoColor=00D98B" alt="Credly Verification" />
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h4 align="center">🧩 Algorithmic & Problem Solving</h4>
+    <td width="34%" valign="top">
+      <h4 align="center">📜 Internship Certificate</h4>
+      <p align="center">
+        <b>Codtech IT Solutions</b><br/>
+        <i>Frontend Web Dev Intern</i><br/>
+        <small>ID: CITS3205 • June-Aug 2026</small><br/><br/>
+        <a href="https://raw.githubusercontent.com/srivastavarudra22-prog/srivastavarudra22-prog/main/internship-certificate.jpg">
+          <img src="https://raw.githubusercontent.com/srivastavarudra22-prog/srivastavarudra22-prog/main/internship-certificate.jpg" width="100%" alt="Codtech IT Solutions Internship Certificate" />
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🧩 Algorithmic Coding</h4>
       <p align="center">
         <a href="https://leetcode.com/u/bixbyultra/">
           <img src="https://img.shields.io/static/v1?label=LeetCode&message=bixbyultra&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=white&labelColor=050505" />
